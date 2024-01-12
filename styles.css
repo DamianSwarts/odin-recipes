@@ -1,3 +1,15 @@
 body{
-    background-color: grey;
+    background-color: rgb(166, 192, 166);
+    font-family:'Times New Roman', Times, serif;
+}
+
+#heading{
+    color: rgb(75, 49, 16);
+    font-size: 90px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.u-list{
+    text-align: center;
 }
