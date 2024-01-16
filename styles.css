@@ -4,12 +4,19 @@ body{
 }
 
 #heading{
-    color: rgb(75, 49, 16);
+    background-color:black;
+    color: rgb(166, 192, 166);
     font-size: 90px;
-    font-family:'Times New Roman', Times, serif;
     text-align: center;
+    margin:0 5px 50px 5px;
 }
 
 .u-list{
-    text-align: center;
+    margin:0 40%;
+}
+
+.one,
+.two,
+.three{
+    padding-bottom:20px;
 }
